@@ -1,0 +1,7 @@
+name: AsperaPlugin
+version: 1.0
+main: me.fahrerdesphilips.aspera.Main
+api-version: 1.17
+description: The Plugin for the Aspera Survival Multiplayer
+author: FahrerDesPhilips
+commands:
