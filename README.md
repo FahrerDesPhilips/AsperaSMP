@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/FahrerDesPhilips/AsperaSMP/blob/main/Logo.png">
-    <img src="Logo.png" alt="Logo" width="637" height="430">
+    <img src="images/Logo.png" alt="Logo" width="637" height="430">
   </a>
 
   <h3 align="center">ASPERA SMP</h3>
