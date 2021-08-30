@@ -84,7 +84,7 @@ Ein Server, auf dem die neuste Version der 1.17.1 Serversoftware installiert ist
 
 ### Installation
 
-1. Downloade die Dateien über: [https://example.com](https://example.com)
+1. Downloade die Dateien über: [DOWNLOAD](https://github.com/FahrerDesPhilips/AsperaSMP/files/7080030/Aspera.zip)
 2. Entpacke die .zip Datei
 3. Plaziere AsperaDatapack.zip in
    ```sh
