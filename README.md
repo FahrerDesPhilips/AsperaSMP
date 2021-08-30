@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/FahrerDesPhilips/AsperaSMP/blob/main/Logo.png">
+    <img src="images/Logo.png" alt="Logo" width="637" height="430">
   </a>
 
   <h3 align="center">ASPERA SMP</h3>
